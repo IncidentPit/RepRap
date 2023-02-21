@@ -7,7 +7,7 @@ $fs = 0.4;
 angle = 5.5;
 width = 85.0; // flat - not on angle
 length = 60.0;
-lip_height = 10.0; // needs checking
+lip_height = 13.0; // needs checking
 
 // Stand parameters
 thickness = 1.5;
