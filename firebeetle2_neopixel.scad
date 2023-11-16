@@ -23,13 +23,13 @@ switchoffset    = 6.5;
 // 0.7-2.0-54.6-2.0-0.7 == 60.0
 
 // Neopixel cable
-thick = 0.75;
+thick = 0.85;
 wide  = 5.0;
 offset = 15.0;
 
 // Enclosure as a function of board
 clearanceabove  = 1;
-clearancebelow  = 3.4; // 1.2 + 2.0mm extra for logic level converter
+clearancebelow  = 4.0; // 1.2 + 2.0mm extra for logic level converter
 clearancesides  = 1;
 wallthickness   = 1.0;
 ventilationstrips = 7;
